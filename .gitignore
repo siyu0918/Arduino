@@ -1,0 +1,20 @@
+# Arduino IDE generated files
+*.ino.hex
+*.ino.elf
+*.ino.bin
+*.ino.eep
+*.ino.lst
+*.ino.map
+*.ino.o
+
+# Build folder (for newer Arduino CLI/IDE 2.x)
+build/
+
+# VS Code specific files (if you use VS Code for Arduino)
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
